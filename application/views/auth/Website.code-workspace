@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp\\htdocs\\ci-app"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\siak"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\Php\\phpmvc"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "siak"
+	}
+}
